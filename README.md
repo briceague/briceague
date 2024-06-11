@@ -8,4 +8,4 @@ Throughout my schooling career I have been placed into numerous leadership roles
 
 The great pleasure and fulfilment I receive from solving complex mathematical problems, as well as programming challenges, pushed me to find new opportunities and challenges to grow. I aspire to become a person that has a significant impact in the fields of mathematics and computer science and I am eager to learn as much as I can.
 
-[[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=briceague)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=briceague)](https://github.com/anuraghazra/github-readme-stats)
