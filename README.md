@@ -19,6 +19,3 @@ The great pleasure and fulfilment I receive from solving complex mathematical pr
 * Machine Learning
 * Data Science
 * Data Analysis
-
-
-[[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=briceague)](https://github.com/anuraghazra/github-readme-stats)
